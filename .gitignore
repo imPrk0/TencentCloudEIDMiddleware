@@ -1,0 +1,21 @@
+# Binaries for programs and plugins
+TencentCloudEIDMiddleware
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.db
+*.bin
+/release/
+
+# Version control
+version.lock
+
+# Developement env
+.idea/*
+temp
+.env
+
+# Dist dir
+dist/
